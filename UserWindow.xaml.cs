@@ -22,7 +22,7 @@ namespace WpfApp1
         #region Private Properties
         public ApplicationIdCredentialsProvider Provider { get; set; }
 
-        private readonly string BingMapsKey = "qXt59AKl8rwqrRMCRqOt~pPlEyB0rYIlIHFkAr4YeIA~AqrPcWkWVdN1c2yCpjsn64d5MpBwQxaz63p6-3fgnmNtGIXV4a25cIIBl5KLVr6e";
+        private readonly string BingMapsKey = "";
 
         private string SessionKey;
 
