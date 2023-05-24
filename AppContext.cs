@@ -6,7 +6,7 @@ namespace WpfApp1
 {
     public  class AppContext
     {
-        static readonly string connectionString = "mongodb+srv://Young_Abobus:y0_466_o@salesmantrip.bqcxu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+        static readonly string connectionString = "";
 
         public static void SaveNewUser(User newUser)
         {
